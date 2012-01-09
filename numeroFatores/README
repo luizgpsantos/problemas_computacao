@@ -1,0 +1,12 @@
+NumeroFatores
+------------------------------
+
+Programa que calcula a quantidade de fatores primos dos números
+digitados na entrada padão, menores que 1000000 até que se digite
+o número 0.
+
+Para criar o programa executável:
+--> make
+
+Para rodar o programa:
+--> ./numeroFatores
